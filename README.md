@@ -1,4 +1,4 @@
-###### Hi there 👋
+# Hi there 👋
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/guilherme-almeida-a21504158/)
